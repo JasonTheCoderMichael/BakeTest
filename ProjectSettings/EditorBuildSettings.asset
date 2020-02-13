@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Shadowmask.unity
+    guid: 67c35df4deafe4a4986f7860e548d140
   m_configObjects: {}
